@@ -1,5 +1,9 @@
 # Application-de-la-console-de-gestion-scolaire
+INTRODUCTION
 
+  Le Système de Gestion Scolaire est une application console développée en langage C# qui offre une plateforme centralisée pour administrer divers aspects d'une institution éducative. Cette application modulaire permet aux utilisateurs d'interagir avec différentes fonctionnalités, couvrant la gestion des étudiants, des enseignants, des modules, du calendrier et des cours. L'objectif principal de ce système est d'automatiser et de simplifier les processus administratifs, offrant ainsi une solution efficace pour les établissements éducatifs
+
+  
   1 - Student Class (Student.cs):
          
          1.1 Properties:
